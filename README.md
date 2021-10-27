@@ -1,4 +1,4 @@
-# Daily-Coading-Problem-12
+# Daily-Coding-Problem-12
 
 This problem was asked by Amazon.
 
